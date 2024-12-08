@@ -1,0 +1,1 @@
+# Kids-Monitoring-system-using-django
