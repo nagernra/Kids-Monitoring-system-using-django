@@ -1,1 +1,1 @@
-# Kids-Monitoring-system-using-django
+#Taskmate - A Django-based Task Management System for Kids
